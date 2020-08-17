@@ -1,0 +1,4 @@
+*.iso filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+dc316589af7cf7a379d6a2f892185f41a093bf0482f0e5cab34fe55720f23bf2.csv filter=lfs diff=lfs merge=lfs -text
